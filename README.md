@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 Now I'm just studying and I want to start working in a cool company
-- 🌱 I’m currently learning QA direction
+- 🌱 I’m currently learning QA and SQL dev directions
 - 🤔 I’m looking for help with learning something new to get started
 - ⚡ Fun fact: Ready to play badminton with you 
 - 📫 How to reach me: tishakovroman@gmail.com or... :
