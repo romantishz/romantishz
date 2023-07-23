@@ -13,5 +13,5 @@
 
 ### :hammer_and_wrench:Tools :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"title="AWS" alt="MS-SQL" width="40" height="40"/>&nbsp;
 </div>
