@@ -18,4 +18,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg"title="AWS" alt="Graf" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="AWS" alt="VS" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"title="AWS" alt="postm" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg"title="AWS" alt="json" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg"title="AWS" alt="xml" width="40" height="40"/>&nbsp;
 </div>
